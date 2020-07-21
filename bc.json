@@ -50,7 +50,7 @@
         {
             "slug": "02-Select-DOM-Element",
             "title": "02-Select-DOM-Element",
-            "done": false,
+            "done": true,
             "path": "exercises/02-Select-DOM-Element",
             "translations": [
                 "es",
@@ -61,7 +61,7 @@
         {
             "slug": "03-Change-Div-Background",
             "title": "03-Change-Div-Background",
-            "done": false,
+            "done": true,
             "path": "exercises/03-Change-Div-Background",
             "translations": [
                 "es",
@@ -83,7 +83,7 @@
         {
             "slug": "05-Create-DOM-Element-First",
             "title": "05-Create-DOM-Element-First",
-            "done": false,
+            "done": true,
             "path": "exercises/05-Create-DOM-Element-First",
             "translations": [
                 "es",
