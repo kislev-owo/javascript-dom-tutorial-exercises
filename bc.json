@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://f80f1a65-12f8-4fcb-ab63-8d5b4b74e4b0.ws-us02.gitpod.io",
+    "address": "https://d00b6c95-7824-40b8-bd0d-d96a8a6cf782.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -94,7 +94,7 @@
         {
             "slug": "06-Create-DOM-Element-Second",
             "title": "06-Create-DOM-Element-Second",
-            "done": false,
+            "done": true,
             "path": "exercises/06-Create-DOM-Element-Second",
             "translations": [
                 "es",
