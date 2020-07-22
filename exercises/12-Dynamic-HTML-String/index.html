@@ -6,12 +6,11 @@
 	</head>
 	<body>
 		<script type="text/javascript">
-			let mystring = "<p>Hello!</p> <strong>My friend</strong>";
-			let date = new date(); /*creo la variable Date y la agrego a Date()*/
-			time = date.getFullYear(); /*time es iguial a la fuction de getfullyear*/
-			mystring.appendChild(time); /*agrego a la variable mystring el hijo de tiempo para que aparezca abajo*/
+			let mystring = "<p>Hello!</p> <strong>My friend,</strong> we are in the year ";
+			var today = new Date();
+			var year = today.getFullYear();
 			document.write(mystring);
+			document.write(year);
 		</script>
 	</body>
 </html>
-
